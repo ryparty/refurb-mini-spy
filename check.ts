@@ -25,7 +25,7 @@ function meetsAlertCriteria(product: Product): boolean {
   const ram = specs.ram.match(/(\d+)/);
   if (!ram || +ram[1] < 16) return false;
 
-  return parseStorageGB(specs.storage) >= 512;
+  return parseStorageGB(specs.storage) >= 256;
 }
 
 function buildSlackMessage(minis: Product[]): { text: string } {
