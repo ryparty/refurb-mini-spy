@@ -67,6 +67,7 @@ async function notifySlack(message: { text: string }): Promise<void> {
 }
 
 async function main() {
+  await notifySlack({ text: "Test notification from Mac Mini monitor" });
   console.log("Fetching Apple refurbished Mac Mini page...");
   const html = await fetchApplePage(MINI_URL);
 
@@ -90,7 +91,6 @@ async function main() {
 
   const message = buildSlackMessage(minis);
   await notifySlack(message);
-  await notifySlack({ text: "Test notification from Mac Mini monitor" });
 }
 
 main().catch((err) => {
