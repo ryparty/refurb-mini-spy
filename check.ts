@@ -90,6 +90,7 @@ async function main() {
 
   const message = buildSlackMessage(minis);
   await notifySlack(message);
+  await notifySlack({ text: "Test notification from Mac Mini monitor" });
 }
 
 main().catch((err) => {
