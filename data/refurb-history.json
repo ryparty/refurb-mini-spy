@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-04-13",
+  "collectedAt": "2026-04-14",
   "source": "https://www.apple.com/shop/refurbished/mac/mac-mini",
   "products": [
     {
@@ -429,7 +429,7 @@
       "refurbPrice": 679,
       "retailPrice": 799,
       "discount": 15,
-      "lastSeen": "2026-04-09",
+      "lastSeen": "2026-04-14",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -507,6 +507,10 @@
         {
           "date": "2026-04-09",
           "price": 679
+        },
+        {
+          "date": "2026-04-14",
+          "price": 679
         }
       ]
     },
@@ -521,7 +525,7 @@
       "refurbPrice": 679,
       "retailPrice": 799,
       "discount": 15,
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-14",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -570,6 +574,10 @@
         },
         {
           "date": "2026-04-08",
+          "price": 679
+        },
+        {
+          "date": "2026-04-14",
           "price": 679
         }
       ]
@@ -805,7 +813,7 @@
       "refurbPrice": 849,
       "retailPrice": 999,
       "discount": 15,
-      "lastSeen": "2026-04-09",
+      "lastSeen": "2026-04-14",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -878,6 +886,10 @@
         },
         {
           "date": "2026-04-09",
+          "price": 849
+        },
+        {
+          "date": "2026-04-14",
           "price": 849
         }
       ]
@@ -2017,7 +2029,7 @@
       "refurbPrice": 1359,
       "retailPrice": 1599,
       "discount": 15,
-      "lastSeen": "2026-04-13",
+      "lastSeen": "2026-04-14",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -2070,6 +2082,10 @@
         },
         {
           "date": "2026-04-13",
+          "price": 1359
+        },
+        {
+          "date": "2026-04-14",
           "price": 1359
         }
       ]
@@ -2361,7 +2377,7 @@
       "refurbPrice": 1529,
       "retailPrice": 1799,
       "discount": 15,
-      "lastSeen": "2026-04-13",
+      "lastSeen": "2026-04-14",
       "firstSeen": "2026-02-02",
       "sightings": [
         {
@@ -2390,6 +2406,10 @@
         },
         {
           "date": "2026-04-13",
+          "price": 1529
+        },
+        {
+          "date": "2026-04-14",
           "price": 1529
         }
       ]
@@ -4117,7 +4137,7 @@
       "refurbPrice": 2889,
       "retailPrice": 3399,
       "discount": 15,
-      "lastSeen": "2026-04-13",
+      "lastSeen": "2026-04-14",
       "firstSeen": "2025-12-14",
       "sightings": [
         {
@@ -4130,6 +4150,10 @@
         },
         {
           "date": "2026-04-13",
+          "price": 2889
+        },
+        {
+          "date": "2026-04-14",
           "price": 2889
         }
       ]
