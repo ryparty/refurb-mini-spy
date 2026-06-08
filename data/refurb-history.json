@@ -113,7 +113,7 @@
       "refurbPrice": 509,
       "retailPrice": 599,
       "discount": 15,
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -266,6 +266,10 @@
         },
         {
           "date": "2026-06-07",
+          "price": 509
+        },
+        {
+          "date": "2026-06-08",
           "price": 509
         }
       ]
@@ -2089,7 +2093,7 @@
       "refurbPrice": 1189,
       "retailPrice": 1399,
       "discount": 15,
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-08",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -2162,6 +2166,10 @@
         },
         {
           "date": "2026-06-06",
+          "price": 1189
+        },
+        {
+          "date": "2026-06-08",
           "price": 1189
         }
       ]
