@@ -3791,74 +3791,6 @@
       ]
     },
     {
-      "ref": "G1JV7LL/A",
-      "chip": "M4 Pro",
-      "cpuCores": 14,
-      "gpuCores": 20,
-      "ram": "48GB",
-      "storage": "1TB",
-      "ethernet": "GbE",
-      "refurbPrice": 1869,
-      "retailPrice": 2199,
-      "discount": 15,
-      "lastSeen": "2026-06-11",
-      "firstSeen": "2026-02-10",
-      "sightings": [
-        {
-          "date": "2026-02-10",
-          "price": 1869
-        },
-        {
-          "date": "2026-02-17",
-          "price": 1869
-        },
-        {
-          "date": "2026-02-21",
-          "price": 1869
-        },
-        {
-          "date": "2026-03-10",
-          "price": 1869
-        },
-        {
-          "date": "2026-03-11",
-          "price": 1869
-        },
-        {
-          "date": "2026-03-26",
-          "price": 1869
-        },
-        {
-          "date": "2026-03-30",
-          "price": 1869
-        },
-        {
-          "date": "2026-04-07",
-          "price": 1869
-        },
-        {
-          "date": "2026-04-14",
-          "price": 1869
-        },
-        {
-          "date": "2026-04-27",
-          "price": 1869
-        },
-        {
-          "date": "2026-04-28",
-          "price": 1869
-        },
-        {
-          "date": "2026-05-06",
-          "price": 1869
-        },
-        {
-          "date": "2026-06-11",
-          "price": 1869
-        }
-      ]
-    },
-    {
       "ref": "G1JVGLL/A",
       "chip": "M4 Pro",
       "cpuCores": 14,
@@ -4499,6 +4431,78 @@
         {
           "date": "2025-07-24",
           "price": 2269
+        }
+      ]
+    },
+    {
+      "ref": "G1JV7LL/A",
+      "chip": "M4 Pro",
+      "cpuCores": 14,
+      "gpuCores": 20,
+      "ram": "48GB",
+      "storage": "1TB",
+      "ethernet": "GbE",
+      "refurbPrice": 2289,
+      "retailPrice": 2199,
+      "discount": 15,
+      "lastSeen": "2026-07-14",
+      "firstSeen": "2026-02-10",
+      "sightings": [
+        {
+          "date": "2026-02-10",
+          "price": 1869
+        },
+        {
+          "date": "2026-02-17",
+          "price": 1869
+        },
+        {
+          "date": "2026-02-21",
+          "price": 1869
+        },
+        {
+          "date": "2026-03-10",
+          "price": 1869
+        },
+        {
+          "date": "2026-03-11",
+          "price": 1869
+        },
+        {
+          "date": "2026-03-26",
+          "price": 1869
+        },
+        {
+          "date": "2026-03-30",
+          "price": 1869
+        },
+        {
+          "date": "2026-04-07",
+          "price": 1869
+        },
+        {
+          "date": "2026-04-14",
+          "price": 1869
+        },
+        {
+          "date": "2026-04-27",
+          "price": 1869
+        },
+        {
+          "date": "2026-04-28",
+          "price": 1869
+        },
+        {
+          "date": "2026-05-06",
+          "price": 1869
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1869
+        },
+        {
+          "date": "2026-07-14",
+          "price": 2289
         }
       ]
     },
