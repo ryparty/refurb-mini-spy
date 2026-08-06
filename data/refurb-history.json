@@ -801,7 +801,7 @@
       "refurbPrice": 849,
       "retailPrice": 799,
       "discount": 15,
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-06",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -986,6 +986,10 @@
         },
         {
           "date": "2026-07-31",
+          "price": 849
+        },
+        {
+          "date": "2026-08-06",
           "price": 849
         }
       ]
@@ -2153,7 +2157,7 @@
       "refurbPrice": 1269,
       "retailPrice": 1199,
       "discount": 15,
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-08-06",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -2275,6 +2279,10 @@
         {
           "date": "2026-07-30",
           "price": 1269
+        },
+        {
+          "date": "2026-08-06",
+          "price": 1269
         }
       ]
     },
@@ -2393,7 +2401,7 @@
       "refurbPrice": 1359,
       "retailPrice": 1399,
       "discount": 15,
-      "lastSeen": "2026-08-05",
+      "lastSeen": "2026-08-06",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -2546,6 +2554,10 @@
         },
         {
           "date": "2026-08-05",
+          "price": 1359
+        },
+        {
+          "date": "2026-08-06",
           "price": 1359
         }
       ]
@@ -2921,7 +2933,7 @@
       "refurbPrice": 1529,
       "retailPrice": 1399,
       "discount": 15,
-      "lastSeen": "2026-08-05",
+      "lastSeen": "2026-08-06",
       "firstSeen": "2026-02-10",
       "sightings": [
         {
@@ -3010,6 +3022,10 @@
         },
         {
           "date": "2026-08-05",
+          "price": 1529
+        },
+        {
+          "date": "2026-08-06",
           "price": 1529
         }
       ]
@@ -3229,7 +3245,7 @@
       "refurbPrice": 1609,
       "retailPrice": 1599,
       "discount": 15,
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-08-06",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -3330,6 +3346,10 @@
         },
         {
           "date": "2026-07-30",
+          "price": 1609
+        },
+        {
+          "date": "2026-08-06",
           "price": 1609
         }
       ]
